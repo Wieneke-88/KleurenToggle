@@ -1,0 +1,71 @@
+body{
+    background-color: powderblue;
+}
+.backgroundPlain{
+    background-color: powderblue;
+}
+
+.backgroundOrange{
+    background-color: orangered;
+}
+
+.backgroundGreen{
+    background-color: greenyellow;
+}
+
+.backgroundLilac{
+    background-color: plum;
+}
+
+.title {
+    color: lightseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hideMenu {
+    display: none;
+}
+
+.menuList{
+    color: darkslategray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+}
+
+.homeButton {
+    background-color: powderblue;
+    width: 100px;
+    border: none;
+    padding: 5px;
+    margin: 0 px 50 px; 
+    display: block;
+}
+.buttonOrange {
+    background-color: orangered;
+    width: 100px;
+    border: none;
+    padding: 5px;
+    margin: 50 px; 
+    display: block;
+}
+
+.buttonGreen {
+    background-color: greenyellow;
+    width: 100px;
+    border: none;
+    padding: 5px;
+    margin: 50 px; 
+    display: block;
+}
+
+.buttonLilac {
+    background-color: plum;
+    width: 100px;
+    border:none; 
+    padding: 5px;
+    margin: 50 px; 
+    display: block;
+}
+.menuList:hover {
+    color: whitesmoke;
+}
